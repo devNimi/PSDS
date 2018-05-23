@@ -1,0 +1,1 @@
+#Write a program to validate a prime number.
